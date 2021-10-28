@@ -1,0 +1,105 @@
+.header
+{
+    position: relative;
+    top: -80px;
+    bottom: 10px;
+    left: 20px;
+}
+
+.header2
+{
+    position: relative;
+    top: -80px;
+    left: 20px;
+}
+
+.rss-box
+{
+    position: relative;
+    top: -75px;
+    width: 90%;
+    text-align: justify;
+}
+
+.rss-box a
+{
+    text-decoration: none;
+    color: rgb(78, 52, 52);
+}
+
+a
+{
+    text-decoration: none;
+    color: #d6b6a0;
+}
+
+a:hover
+{
+    color: whitesmoke;
+}
+
+ul 
+{
+    list-style-type: none;
+}
+
+li
+{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.rss-title
+{
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+span
+{
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+}
+
+.about
+{
+    position: relative;
+    width: 645px;
+    height: 572px;
+    top: -65px;
+    left: 20px;
+
+    /* top: -65px;
+    width: 645px;
+    height: 600px;
+    left: 20px; */
+}
+
+.pic1
+{
+    position: relative;
+    left: 20px;
+    top: -65px;
+}
+
+.pic2
+{
+    position: relative;
+    left: 5px;
+    top: 200px
+}
+
+#SusanVid
+{
+    position: relative;
+    left: 20px;
+}
+
+#SusanVid2
+{
+    position: relative;
+    left: 20px;
+}
